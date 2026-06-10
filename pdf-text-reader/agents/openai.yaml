@@ -1,0 +1,5 @@
+interface:
+  display_name: "PDF Text Reader"
+  short_description: "Extract PDF text into Markdown with page-aware output"
+  default_prompt: "Use $pdf-text-reader to extract text from a PDF, write it to a Markdown file, and show the result."
+
